@@ -58,5 +58,9 @@ int main()
     s9.display();
     student s10(10,"Priya",24,6,2001,45);
     s10.display();
+    student s11(11,"Aarti",21,3,2001,35);
+    s11.display();
+    
+
 }
 
