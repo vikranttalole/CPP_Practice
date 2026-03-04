@@ -12,7 +12,7 @@ class Employee
 
 public:
 
-    // Constructor
+                                                                // Constructor
     Employee(int id, string n, float s, string c)
     {
         empId = id;
