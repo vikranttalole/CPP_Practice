@@ -56,7 +56,7 @@ int main(){
     }
 
     int amt;
-    cout << "Enter amount to deposit: ";
+    cout << "Enter AMOUNT to deposit: ";
     cin >> amt;
     a1.deposit(amt);
 
