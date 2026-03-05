@@ -3,16 +3,12 @@ using namespace std;
 
 int main()
 {
-    int i, j;
-
-    for(i = 5; i >= 1; i--)   // rows
+    for(int i=5;i>=1;i--)
     {
-        for(j = 1; j <= i; j++)   // columns
+        for(int j=0;j<i;j++)
         {
-            cout << char(64 + j) << " ";
+            cout<<char('A'+j)<<" ";
         }
-        cout << endl;
+        cout<<endl;
     }
-
-    return 0;
 }
