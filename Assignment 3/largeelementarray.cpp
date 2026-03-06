@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int n;
-    cout << "enter number of elements: ";
+    cout << "How many number of elements you want to enter: ";
     cin >> n;
 
     int *arr = new int[n];
