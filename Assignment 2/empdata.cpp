@@ -60,3 +60,25 @@ int main()
 
     return 0;
 }
+
+
+// Q. 
+// Create a class Employee:
+
+// Data Members:
+// empId
+// name
+// salary
+// static int totalEmployees
+// Global variable string companyName
+
+// Requirements:
+// Constructor should initialize values
+// Each time object is created → increment totalEmployees
+// Function display()
+// Static function showTotalEmployees()
+
+// Create 5 employee objects in main and display:
+// All employee details
+// Total employees created
+// Display company name in display function

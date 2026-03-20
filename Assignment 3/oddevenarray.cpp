@@ -29,3 +29,11 @@ int main()
 
     return 0;
 }
+
+// Q.
+// Write a C++ program to count even and odd numbers in an array.
+
+// Example
+// Array: 1 2 3 4 5
+// Even = 2
+// Odd = 3

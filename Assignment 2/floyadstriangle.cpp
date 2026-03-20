@@ -20,3 +20,6 @@ int main()
 
     return 0;
 }
+
+// Q.
+// WAP to print Floyd’s Triangle.

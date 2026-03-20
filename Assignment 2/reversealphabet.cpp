@@ -12,3 +12,12 @@ int main()
         cout<<endl;
     }
 }
+
+// Q.
+// WAP to print Reverse Alphabet Pattern
+
+// A B C D E
+// A B C D
+// A B C
+// A B
+// A

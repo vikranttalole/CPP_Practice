@@ -28,3 +28,6 @@ int main()
     cout << "largest element is: " << largest;
     return 0;
 }
+
+// Q.
+// Write a C++ program to find the largest element in an array.
